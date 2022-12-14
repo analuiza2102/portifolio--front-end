@@ -1,0 +1,22 @@
+.btn-sobre{
+    background-color: rgb(206, 29, 88);
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    border: none;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.btn-sobre:hover{
+    background-color:transparent;
+    color: rgb(253, 253, 253);
+    border: 2px solid rgb(27, 99, 5);
+}
+
+.btn-sobre a{
+    text-decoration: none;
+}

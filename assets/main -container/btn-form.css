@@ -1,0 +1,18 @@
+.btn-2{
+    position: absolute;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: rgb(211, 26, 87);
+    top: 0;
+    right: 0;
+    transform: translate(50%, -50%);
+    transition: 0.5s;
+    cursor: pointer; 
+    border: none;
+    box-shadow: 0px 0px 10px 0px rgba(93, 92, 92, 0.5);
+    
+}
+
+

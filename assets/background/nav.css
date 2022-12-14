@@ -1,0 +1,49 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+nav h2{
+    color: white;
+    cursor: pointer;
+    font-size: 35px;
+    letter-spacing: 1px;
+    font-weight: 500;
+   
+
+
+}
+
+nav span{
+    font-size: 45px;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 10px 20px;
+    position: relative;
+    cursor: pointer;
+
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+
+}
+
+nav ul li a:hover{
+    color: #cf0f3c;
+    transform: scale(1.5);
+
+}
+    
+  
+

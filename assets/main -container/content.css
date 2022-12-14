@@ -1,0 +1,44 @@
+.content{
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin-bottom: 40px;
+    position: relative;
+    padding: 0 20px;
+    
+
+}
+
+h1{
+    color: white; 
+    font-size: 28px;
+    margin-top: 20px;
+    
+
+}
+
+
+h2{
+    color: white;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    font-size: 45px;
+
+}
+
+
+.content span{
+    color: rgb(254, 13, 126);
+    letter-spacing: 1px;
+    margin: 20px 0px 20px ;
+    font-size: 45px;
+}
+
+h3{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 22px;
+    margin-bottom: 30px;
+
+}
+
+

@@ -1,0 +1,31 @@
+.content-sobre{
+    width: 550px;
+    
+}
+
+.content-sobre h2{
+    font-size: 75px;
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    margin-bottom: 20px;
+
+}
+
+.content-sobre h5{
+    color: white;
+    font-size: 24px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+
+
+}
+
+.content-sobre p{
+    color: rgb(214, 126, 163);
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    line-height: 27px;
+}
+
